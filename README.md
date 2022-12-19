@@ -2,7 +2,7 @@
 
 A personal expense tracking application made using flutter
 
-## Screenshots
+## Screenshots 
 
 <p align="middle">
   <img src="https://user-images.githubusercontent.com/92013594/206896160-917e18e2-3626-49d1-9901-0c6437013e05.png" width="200" />
