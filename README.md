@@ -1,4 +1,4 @@
-# Flutter Expense Tracker
+# Flutter Expense Tracker 
 
 A personal expense tracking application made using flutter
 
