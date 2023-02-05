@@ -1,6 +1,6 @@
 # Flutter Expense Tracker 
 
-A personal expense tracking application made using flutter
+A personal expense tracking application made using flutter.
 
 ## Screenshots 
 
